@@ -1,0 +1,17 @@
+{
+  "name": "4task-1day-3week",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.6.0"
+
+  },
+  "type": "module"
+  
+}
